@@ -28,3 +28,11 @@ h2{margin:0 0 8px 0;color:var(--accent)}
   .nav, .cta{display:none}
   .header{background:#0b63b7;color:#fff;padding:8px;border-radius:0}
 }
+.cert-logo img {
+    width: 100px;
+    height: auto;
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+}
